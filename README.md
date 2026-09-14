@@ -1,7 +1,6 @@
 # Fictitious-Business---Data-Analysis
 This is the start of my first data analysis project using a public dataset on a fictitious company.
-Downloads: 
-[Download the Excel dataset](data/Subscription Cohort Analysis Data.xlsx)
+[Download the Excel dataset](data/Subscription%20Cohort%20Analysis%20Data.xlsx)
 
 Documentation Overview: 
 
