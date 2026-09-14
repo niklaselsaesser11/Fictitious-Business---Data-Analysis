@@ -21,7 +21,7 @@ Documentation Overview:
   ###  3. Standardizing date fields
   ###  4. Formatting Subscription costs
   ###  5. Checking for duplicate entries
-  This is just a simple overview of the most important steps. I have attached the Excel file for a more detailed view.
+  This is just a simple overview of the most important steps. I have attached the Excel file for a more detailed view to the data folder.
 
   Here is the result:
 
