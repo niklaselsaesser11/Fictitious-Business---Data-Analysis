@@ -13,5 +13,6 @@ What month has the highest subscriber retention, the lowest retention?
 
 2. Data Preparation using Microsoft Excel
 
+<img width="730" height="828" alt="image" src="https://github.com/user-attachments/assets/ef653247-a18f-4235-8267-d0696008c149" />
 
 
