@@ -55,7 +55,7 @@ Documentation Overview:
 
   <img width="1027" height="293" alt="image" src="https://github.com/user-attachments/assets/388a916b-33f9-4a00-9f9a-58e9c254bfec" />
 
-  And with that out of the way the final visual is complete.
+  And with that out of the way, the final visual is complete.
 
   <img width="1382" height="787" alt="Screenshot 2026-09-16 094030" src="https://github.com/user-attachments/assets/63bc8c0b-706c-4c63-989d-d5a7f52ae029" />
 
