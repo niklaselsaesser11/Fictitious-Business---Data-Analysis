@@ -1,6 +1,6 @@
 # Fictitious-Business---Data-Analysis
 This is the start of my first data analysis project using a public dataset on a fictitious company.
-[Download the Excel dataset](data/Subscription%20Cohort%20Analysis%20Data.xlsx). [Download the PowerBI report](data/Project%20Analysis.pbit) Follow the link and click on 'View raw'.
+[Download the Excel dataset](data/Subscription%20Cohort%20Analysis%20Data.xlsx). [Download the PowerBI report](data/Project%20Analysis.pbit). Follow each link and click on 'View raw'.
 
 Documentation Overview: 
 
